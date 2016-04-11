@@ -1,4 +1,3 @@
-# github-learning-notes
-《GitHub入门与实战》笔记
+# 《GitHub入门与实战》笔记
 
 
