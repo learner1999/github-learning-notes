@@ -11,5 +11,7 @@ int main(void)
 {
     printf("hello world\n");
 
+    printf("feature-A");
+
     return 0;
 }
